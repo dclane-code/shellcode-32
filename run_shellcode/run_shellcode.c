@@ -1,7 +1,6 @@
+#include "shell.h"
 #include <stdio.h>
 #include <string.h>
-#include "shell.h"
-
 
 typedef void (*function_ptr)();
 
