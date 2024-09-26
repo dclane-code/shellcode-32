@@ -1,0 +1,3 @@
+some shellcode needs to be output in a headerfile called shell.h, for this to compile
+it needs to be the output of
+    xxd -i ../shell/shell.bin > shell.h
